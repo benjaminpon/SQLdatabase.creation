@@ -1,4 +1,4 @@
-# To create database with seven tables and two views.
+# To create employee database with seven tables and two views.
 
 DROP DATABASE IF EXISTS EmployeeDW
 
